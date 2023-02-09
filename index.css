@@ -1,0 +1,127 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+p{
+font-size: 18px;
+background: rgb(230, 234, 255);
+border: 5px;
+border-radius: 10px;
+margin-right: 100px;
+margin-left: 20px;
+color: rgb(0, 0, 0);
+}
+
+a{
+text-decoration: none;  
+color: rgb(128, 0, 0);
+margin-left: 20px;
+}
+
+img{
+  width: 500px;
+    
+}
+
+.resto-de-pilotos-imagenes{
+    width: 300px;
+}
+
+#resto-de-pilotos-imagenes{
+    width: 300px;
+}
+
+video{
+    height: 300px;
+    margin-left: 20px;
+}
+
+h1{
+    background: black;
+    color: white;
+    padding: 10px;
+}
+
+h2{
+    margin-left: 20px;
+}
+
+h3{
+    margin-left: 30px
+}
+
+h4{
+    margin-left: 20px;
+}
+
+.equipos-pilotos{
+    background: brown;
+    padding: 10px;
+}
+
+ol{
+    margin-left: 200px;
+}
+
+ul{
+    margin-left: 200px;
+}
+
+#foto-hamilton{
+    width: 350px;
+}
+
+.fotos-ver-y-alo{
+    width: 350px;
+}
+
+button{
+    background-color: brown;
+    color: white;
+    font-size: large;
+    width: 200px;
+    height: 100px;
+    border-width: 5px;
+    border-radius: 45%;
+    border-color: black;
+}
+
+button:hover {
+    background-color: white;
+    color: brown;
+}
+
+img {
+    border-radius: 20%;
+}
+
+table{
+    width: 700px;
+    border-collapse: collapse;
+    border: 1px solid black;
+    border-color: black;
+    border-width: 2px;
+    border-style: inset;
+}
+
+aside{
+    width: 25%;
+    margin-right: 10px;
+    margin-top: 20px;
+    padding-right: 10px;
+    float: right;
+    text-align: right;
+    font-size: 25px;
+    background-color: brown;
+    color: white;
+}
+
+#imagen-gasly{
+    width: 300px;
+    float: right;
+}
+
+#parrafo-gasly{
+    background-color: rgb(27, 27, 60);
+}
