@@ -1,1 +1,1 @@
-// alert("primera página de Tai")
+alert("primera página de prueba")
